@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Trang đăng xuất";
+}
+
+<h1>Đăng xuất</h1>
+<div class="container">
+    <h2 style="color:white; text-shadow:1px 1px 3px black;">
+        Welcome @Context.User.Identity.Name
+    </h2>
+    <a asp-action="DangXuat" style="color:yellow; font-weight:bold;">
+        Đăng xuất
+    </a>
+</div>
+
