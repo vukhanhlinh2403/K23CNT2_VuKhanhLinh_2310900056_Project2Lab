@@ -1,0 +1,969 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TRANGQUANAO.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TRANGQUANAO.qsrk344tzs.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh1.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh10.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh10.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh11.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh11.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh12.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh12.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh13.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh13.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh14.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh14.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh15.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh15.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh16.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh16.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh17.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh17.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh18.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh18.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh19.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh19.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh2.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh20.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh20.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh21.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh21.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh22.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh22.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh23.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh23.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh24.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh24.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh25.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh25.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh26.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh26.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh27.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh27.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh28.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh28.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh29.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh29.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh3.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh3.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh4.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh4.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh5.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh5.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh6.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh6.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh7.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh7.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh8.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh8.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\anh9.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\anh9.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hero-img.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\HangHoa\\payment.png",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\payment.png"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\PhuKien\\anh30.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\PhuKien\\anh30.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\PhuKien\\anh31.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\PhuKien\\anh31.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\PhuKien\\anh32.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\PhuKien\\anh32.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\PhuKien\\anh33.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\PhuKien\\anh33.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\Hinh\\PhuKien\\images.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\PhuKien\\images.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh1.jpg",
+      "PackagePath": "staticwebassets\\img\\anh1.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh10.jpg",
+      "PackagePath": "staticwebassets\\img\\anh10.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh11.jpg",
+      "PackagePath": "staticwebassets\\img\\anh11.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh12.jpg",
+      "PackagePath": "staticwebassets\\img\\anh12.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh13.jpg",
+      "PackagePath": "staticwebassets\\img\\anh13.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh14.jpg",
+      "PackagePath": "staticwebassets\\img\\anh14.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh15.jpg",
+      "PackagePath": "staticwebassets\\img\\anh15.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh16.jpg",
+      "PackagePath": "staticwebassets\\img\\anh16.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh17.jpg",
+      "PackagePath": "staticwebassets\\img\\anh17.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh18.jpg",
+      "PackagePath": "staticwebassets\\img\\anh18.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh19.jpg",
+      "PackagePath": "staticwebassets\\img\\anh19.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh2.jpg",
+      "PackagePath": "staticwebassets\\img\\anh2.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh20.jpg",
+      "PackagePath": "staticwebassets\\img\\anh20.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh21.jpg",
+      "PackagePath": "staticwebassets\\img\\anh21.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh22.jpg",
+      "PackagePath": "staticwebassets\\img\\anh22.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh23.jpg",
+      "PackagePath": "staticwebassets\\img\\anh23.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh24.jpg",
+      "PackagePath": "staticwebassets\\img\\anh24.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh25.jpg",
+      "PackagePath": "staticwebassets\\img\\anh25.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh26.jpg",
+      "PackagePath": "staticwebassets\\img\\anh26.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh27.jpg",
+      "PackagePath": "staticwebassets\\img\\anh27.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh28.jpg",
+      "PackagePath": "staticwebassets\\img\\anh28.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh29.jpg",
+      "PackagePath": "staticwebassets\\img\\anh29.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh3.jpg",
+      "PackagePath": "staticwebassets\\img\\anh3.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh4.jpg",
+      "PackagePath": "staticwebassets\\img\\anh4.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh5.jpg",
+      "PackagePath": "staticwebassets\\img\\anh5.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh6.jpg",
+      "PackagePath": "staticwebassets\\img\\anh6.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh7.jpg",
+      "PackagePath": "staticwebassets\\img\\anh7.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh8.jpg",
+      "PackagePath": "staticwebassets\\img\\anh8.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\anh9.jpg",
+      "PackagePath": "staticwebassets\\img\\anh9.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Project2\\K23CNT2_VuKhanhLinh_2310900056_Project2Lab\\TRANGQUANAO\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TRANGQUANAO.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TRANGQUANAO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TRANGQUANAO.props",
+      "PackagePath": "build\\TRANGQUANAO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TRANGQUANAO.props",
+      "PackagePath": "buildMultiTargeting\\TRANGQUANAO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TRANGQUANAO.props",
+      "PackagePath": "buildTransitive\\TRANGQUANAO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

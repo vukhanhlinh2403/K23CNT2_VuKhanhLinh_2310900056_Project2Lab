@@ -1,0 +1,75 @@
+﻿@model TRANGQUANAO.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Chi tiết hàng hóa";
+}
+
+<h1 class="text-center text-info mb-4">Chi Tiết Hàng Hóa</h1>
+
+<div class="card shadow p-4">
+    <dl class="row">
+        <dt class="col-sm-3 fw-bold">Tên hàng hóa</dt>
+        <dd class="col-sm-9">@Model.TenHh</dd>
+
+        <dt class="col-sm-3 fw-bold">Tên Alias</dt>
+        <dd class="col-sm-9">@Model.TenAlias</dd>
+
+        <dt class="col-sm-3 fw-bold">Mô tả đơn vị</dt>
+        <dd class="col-sm-9">@Model.MoTaDonVi</dd>
+
+        <dt class="col-sm-3 fw-bold">Giá</dt>
+        <dd class="col-sm-9">@string.Format("{0:N0} đ", Model.DonGia)</dd>
+
+        <dt class="col-sm-3 fw-bold">Ảnh</dt>
+        <dd class="col-sm-9">
+            @if (!string.IsNullOrEmpty(Model.Hinh))
+            {
+                <img src="~/Hinh/HangHoa/@Model.Hinh"
+                     class="img-thumbnail shadow-sm"
+                     style="max-height:200px;" />
+            }
+            else
+            {
+                <span class="text-muted">Chưa có ảnh</span>
+            }
+        </dd>
+
+        <dt class="col-sm-3 fw-bold">Ngày sản xuất</dt>
+        <dd class="col-sm-9">@Model.NgaySx.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-3 fw-bold">Giảm giá</dt>
+        <dd class="col-sm-9">@Model.GiamGia %</dd>
+
+        <dt class="col-sm-3 fw-bold">Số lần xem</dt>
+        <dd class="col-sm-9">@Model.SoLanXem</dd>
+
+        <dt class="col-sm-3 fw-bold">Mô tả</dt>
+        <dd class="col-sm-9">@Model.MoTa</dd>
+
+        <dt class="col-sm-3 fw-bold">Nhà cung cấp</dt>
+        <dd class="col-sm-9">@Model.MaNcc</dd>
+
+        <dt class="col-sm-3 fw-bold">Loại hàng</dt>
+        <dd class="col-sm-9">@Model.MaLoaiNavigation?.MaLoai</dd>
+    </dl>
+
+    <div class="text-end">
+        <a asp-action="Edit" asp-route-id="@Model.MaHh" class="btn btn-warning">
+            <i class="bi bi-pencil-square"></i> Chỉnh sửa
+        </a>
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Quay lại
+        </a>
+    </div>
+</div>
+
+<style>
+    .card dl dt {
+        font-weight: bold;
+        color: #0d6efd;
+    }
+
+    .card dl dd {
+        margin-bottom: 1rem;
+    }
+</style>

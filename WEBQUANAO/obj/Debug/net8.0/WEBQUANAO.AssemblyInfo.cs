@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEBQUANAO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e978e3597073e2a8e76fc66c2ce3a98bc7e309ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEBQUANAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WEBQUANAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

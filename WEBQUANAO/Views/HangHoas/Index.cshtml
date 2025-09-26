@@ -1,95 +1,80 @@
 ﻿@model IEnumerable<WEBQUANAO.Models.HangHoa>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Danh sách hàng hóa";
 }
 
-<h1>Index</h1>
+<h1 class="text-center mb-4 text-primary fw-bold">Danh sách Hàng Hóa</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.TenHh)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.TenAlias)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MoTaDonVi)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DonGia)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Hinh)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.NgaySx)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.GiamGia)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.SoLanXem)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MoTa)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MaNcc)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MaLoaiNavigation)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.TenHh)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.TenAlias)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MoTaDonVi)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DonGia)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Hinh)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NgaySx)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.GiamGia)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.SoLanXem)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MoTa)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MaNcc)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MaLoaiNavigation.MaLoai)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.MaHh">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.MaHh">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.MaHh">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+<div class="d-flex justify-content-end mb-3">
+    <a asp-action="Create" class="btn btn-success">
+        <i class="bi bi-plus-circle"></i> Thêm mới
+    </a>
+</div>
+
+<div class="table-responsive shadow rounded">
+    <table class="table table-hover table-bordered align-middle">
+        <thead class="table-primary">
+            <tr class="text-center">
+                <th>@Html.DisplayNameFor(model => model.TenHh)</th>
+                <th>@Html.DisplayNameFor(model => model.TenAlias)</th>
+                <th>@Html.DisplayNameFor(model => model.MoTaDonVi)</th>
+                <th>@Html.DisplayNameFor(model => model.DonGia)</th>
+                <th>@Html.DisplayNameFor(model => model.Hinh)</th>
+                <th>@Html.DisplayNameFor(model => model.NgaySx)</th>
+                <th>@Html.DisplayNameFor(model => model.GiamGia)</th>
+                <th>@Html.DisplayNameFor(model => model.SoLanXem)</th>
+                <th>@Html.DisplayNameFor(model => model.MoTa)</th>
+                <th>@Html.DisplayNameFor(model => model.MaNcc)</th>
+                <th>@Html.DisplayNameFor(model => model.MaLoaiNavigation)</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.TenHh</td>
+                    <td>@item.TenAlias</td>
+                    <td>@item.MoTaDonVi</td>
+                    <td class="text-end">@string.Format("{0:N0} đ", item.DonGia)</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.Hinh))
+                        {
+                            <img src="~/Hinh/HangHoa/@item.Hinh" class="img-thumbnail" style="max-height: 60px;" />
+                        }
+                        else
+                        {
+                            <span class="text-muted">Chưa có</span>
+                        }
+                    </td>
+                    <td>@item.NgaySx.ToString("dd/MM/yyyy")</td>
+                    <td>@item.GiamGia %</td>
+                    <td class="text-center">@item.SoLanXem</td>
+                    <td>@item.MoTa</td>
+                    <td>@item.MaNcc</td>
+                    <td>@item.MaLoaiNavigation?.MaLoai</td>
+                    <td class="text-center">
+                        <a asp-action="Edit" asp-route-id="@item.MaHh" class="btn btn-sm btn-warning">Sửa</a>
+                        <a asp-action="Details" asp-route-id="@item.MaHh" class="btn btn-sm btn-info text-white">Xem</a>
+                        <a asp-action="Delete" asp-route-id="@item.MaHh" class="btn btn-sm btn-danger">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<style>
+    h1 {
+        font-size: 2rem;
+    }
+
+    .table img {
+        border-radius: 8px;
+    }
+
+    .btn {
+        margin: 2px;
+    }
+</style>

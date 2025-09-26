@@ -92,19 +92,24 @@ namespace WEBQUANAO.Controllers
                         }
                         else
                         {
+                            string role = (khachHang.VaiTro == 1) ? "Admin" : "Customer";
                             var claims = new List<Claim> {
                                 new Claim(ClaimTypes.Email, khachHang.Email),
                                 new Claim(ClaimTypes.Name, khachHang.HoTen),
                                 new Claim(MySetting.CLAIM_CUSTOMERID, khachHang.MaKh),
-
-								//claim - role động
-								new Claim(ClaimTypes.Role, "Customer")
+								new Claim(ClaimTypes.Role, role)
                             };
 
                             var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
                             var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
 
                             await HttpContext.SignInAsync(claimsPrincipal);
+
+
+                            if (role == "Admin")
+                            {
+                                return RedirectToAction("Index", "HangHoas", new { area = "Admin" });
+                            }
 
                             if (Url.IsLocalUrl(ReturnUrl))
                             {

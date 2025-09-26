@@ -39,6 +39,7 @@ namespace WEBQUANAO.ViewModels
 
         [EmailAddress(ErrorMessage = "Chưa đúng định dạng email")]
         public string Email { get; set; }
+        public string VaiTro { get; set; }
 
         public string? Hinh { get; set; }
     }

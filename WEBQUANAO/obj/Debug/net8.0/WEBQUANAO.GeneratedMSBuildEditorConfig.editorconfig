@@ -28,6 +28,46 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/HangHoas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ0hvYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/HangHoas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ0hvYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/HangHoas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ0hvYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/HangHoas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ0hvYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/HangHoas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSGFuZ0hvYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/NhanViens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/NhanViens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/NhanViens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/NhanViens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Areas/Admin/Views/NhanViens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTmhhblZpZW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Views/Cart/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -110,6 +150,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Views/Shared/_AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project2/K23CNT2_VuKhanhLinh_2310900056_Project2Lab/WEBQUANAO/Views/Shared/_Copyright.cshtml]

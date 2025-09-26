@@ -1,0 +1,9 @@
+﻿@model IEnumerable<TRANGQUANAO.ViewModels.HangHoaVM>
+@{
+    ViewData["Title"] = "Tìm kiếm";
+    Layout = "_DanhSachHangHoa";
+}
+
+<h1>Search</h1>
+
+@await Html.PartialAsync("ProductItem", Model)

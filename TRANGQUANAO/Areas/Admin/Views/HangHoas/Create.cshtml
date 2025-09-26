@@ -1,0 +1,95 @@
+﻿@model TRANGQUANAO.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Thêm Hàng Hóa";
+    Layout = "~/Views/Shared/LayoutCustomer.cshtml";
+}
+
+<h1 class="text-center my-4 text-success">
+    <i class="bi bi-plus-circle"></i> Thêm Hàng Hóa
+</h1>
+
+<form asp-action="Create" enctype="multipart/form-data" class="shadow p-4 rounded bg-light">
+    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+    <div class="mb-3">
+        <label asp-for="TenHh" class="form-label"></label>
+        <input asp-for="TenHh" class="form-control" />
+        <span asp-validation-for="TenHh" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TenAlias" class="form-label"></label>
+        <input asp-for="TenAlias" class="form-control" />
+        <span asp-validation-for="TenAlias" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MoTaDonVi" class="form-label"></label>
+        <input asp-for="MoTaDonVi" class="form-control" />
+        <span asp-validation-for="MoTaDonVi" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DonGia" class="form-label"></label>
+        <input asp-for="DonGia" class="form-control" />
+        <span asp-validation-for="DonGia" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Hinh" class="form-label"></label>
+        <input asp-for="Hinh" type="file" class="form-control" />
+        <span asp-validation-for="Hinh" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NgaySx" class="form-label"></label>
+        <input asp-for="NgaySx" type="date" class="form-control" />
+        <span asp-validation-for="NgaySx" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="GiamGia" class="form-label"></label>
+        <input asp-for="GiamGia" class="form-control" />
+        <span asp-validation-for="GiamGia" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MoTa" class="form-label"></label>
+        <textarea asp-for="MoTa" rows="3" class="form-control"></textarea>
+        <span asp-validation-for="MoTa" class="text-danger"></span>
+    </div>
+
+    <div class="d-flex justify-content-between mt-4">
+        <a asp-action="Index" class="btn btn-outline-secondary px-4">
+            <i class="bi bi-arrow-left-circle"></i> Quay lại
+        </a>
+
+        <button type="submit" class="btn btn-primary px-5 shadow-sm">
+            <i class="bi bi-plus-circle"></i> Thêm mới
+        </button>
+    </div>
+
+    <style>
+        .btn-primary {
+            background: linear-gradient(90deg, #0d6efd, #0dcaf0);
+            border: none;
+            transition: 0.3s ease-in-out;
+        }
+
+            .btn-primary:hover {
+                background: linear-gradient(90deg, #0dcaf0, #0d6efd);
+                transform: scale(1.03);
+            }
+
+        .btn-outline-secondary:hover {
+            background-color: #6c757d;
+            color: #fff;
+        }
+    </style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

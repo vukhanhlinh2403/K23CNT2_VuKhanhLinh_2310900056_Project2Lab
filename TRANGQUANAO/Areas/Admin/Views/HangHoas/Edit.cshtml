@@ -1,0 +1,82 @@
+﻿@model TRANGQUANAO.Models.HangHoa
+
+@{
+    ViewData["Title"] = "Chỉnh sửa Hàng Hóa";
+}
+
+<h1 class="text-center my-4 text-warning">
+    <i class="bi bi-pencil-square"></i> Chỉnh sửa Hàng Hóa
+</h1>
+
+<form asp-action="Edit" enctype="multipart/form-data" class="shadow p-4 rounded bg-light">
+    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+    <input type="hidden" asp-for="MaHh" />
+
+    <div class="mb-3">
+        <label asp-for="TenHh" class="form-label"></label>
+        <input asp-for="TenHh" class="form-control" />
+        <span asp-validation-for="TenHh" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="TenAlias" class="form-label"></label>
+        <input asp-for="TenAlias" class="form-control" />
+        <span asp-validation-for="TenAlias" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MoTaDonVi" class="form-label"></label>
+        <input asp-for="MoTaDonVi" class="form-control" />
+        <span asp-validation-for="MoTaDonVi" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DonGia" class="form-label"></label>
+        <input asp-for="DonGia" class="form-control" />
+        <span asp-validation-for="DonGia" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Hình hiện tại</label><br />
+        <img src="~/Hinh/HangHoa/@Model.Hinh" style="width:80px; height:80px; object-fit:cover;" class="img-thumbnail" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Hinh" class="form-label">Đổi hình</label>
+        <input asp-for="Hinh" type="file" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="NgaySx" class="form-label"></label>
+        <input asp-for="NgaySx" type="date" class="form-control" />
+        <span asp-validation-for="NgaySx" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="GiamGia" class="form-label"></label>
+        <input asp-for="GiamGia" class="form-control" />
+        <span asp-validation-for="GiamGia" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="MoTa" class="form-label"></label>
+        <textarea asp-for="MoTa" rows="3" class="form-control"></textarea>
+        <span asp-validation-for="MoTa" class="text-danger"></span>
+    </div>
+
+    <div class="d-flex justify-content-between">
+        <a asp-action="Index" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Quay lại
+        </a>
+        <button type="submit" class="btn btn-warning">
+            <i class="bi bi-save"></i> Cập nhật
+        </button>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
